@@ -3,7 +3,7 @@ layout: post
 title: On Remote Working Teams I
 ---
 
-Some writing about how I manage remote teams, and what you can do if you're starting out remote-working or in a beginner team.
+Some writing about how I manage remote teams, and what you do if you're starting out remote-working or in a beginner team.
 
 # The gist
 
