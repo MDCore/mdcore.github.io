@@ -3,7 +3,7 @@ layout: post
 title: Postmodern People Management I
 ---
 
-80 thoughts about managing people in 2019. In no particular order.
+Eighty thoughts about managing people in 2019. In no particular order.
 
 ---
 ### 1
@@ -39,11 +39,11 @@ It's not your responsibility to push anyone forward in their career. But use you
 
 ---
 ### 9
-Question your own perceptions of a person's abilities and mistakes. Get feedback and insight from others to challenge your understanding. 
+Question your own perceptions of a person's abilities and mistakes. Get feedback and insight from others to challenge your understanding.
 
 ---
 ### 10
-Remember that (for most people) nobody can criticise them as well as they already criticise themselves. What you're saying is at best old news, and at worst fuel for the inner critic. There's little value for you here. 
+Remember that (for most people) nobody can criticise them as well as they already criticise themselves. What you're saying is at best old news, and at worst fuel for the inner critic. There's little value for you here.
 
 ---
 ### 11
@@ -91,7 +91,7 @@ Don't be let down by a resignation. Be excited that they have found something be
 
 ---
 ### 22
-Spend your time and energy changing the systems that affect your people, and you'll find that people change along with it. 
+Spend your time and energy changing the systems that affect your people, and you'll find that people change along with it.
 
 ---
 ### 23
@@ -99,7 +99,7 @@ When you change things you'll find out how much people were invested in the stat
 
 ---
 ### 24
-As soon as you find out that the person you are giving feedback to already knows, stop. 
+As soon as you find out that the person you are giving feedback to already knows, stop.
 
 ---
 ### 25
@@ -139,7 +139,7 @@ Sometimes you have to use your authority to make a decision. People might not li
 
 ---
 ### 34
-You may find your team isn't as advanced as you in technology, process, safety etc. Resist the urge to set "getting the team there" as your goal. 
+You may find your team isn't as advanced as you in technology, process, safety etc. Resist the urge to set "getting the team there" as your goal.
 
 ---
 ### 35
@@ -163,7 +163,7 @@ Make it clear over and over again that people don't have to choose between their
 
 ---
 ### 40
-Don't try and create good culture. Rather: praise healthy actions; treat everyone with kindness; apologise; laugh. 
+Don't try and create good culture. Rather: praise healthy actions; treat everyone with kindness; apologise; laugh.
 
 ---
 ### 41
@@ -183,7 +183,7 @@ Look for related teams to work alongside. Share what you know and have with othe
 
 ---
 ### 45
-Show disdain for silos. 
+Show disdain for silos.
 
 ---
 ### 46
@@ -191,11 +191,11 @@ Accept people who choose to specialise, if they fit into the team.
 
 ---
 ### 47
-Homogeneity of team membership leads to poorer quality, less valuable work. 
+Homogeneity of team membership leads to poorer quality, less valuable work.
 
 ---
 ### 48
-We are all unquestionably biased. You'll never eradicate bias in yourself, but time spent discovering your biases and (if necessary) mitigating them is worthwhile. 
+We are all unquestionably biased. You'll never eradicate bias in yourself, but time spent discovering your biases and (if necessary) mitigating them is worthwhile.
 
 ---
 ### 49
@@ -203,7 +203,7 @@ You'll get more out of listening than talking. Listening is an active skill, emo
 
 ---
 ### 50
-Not everyone knows how to process feedback. Before you start dishing it out, teach them how to filter it or reject it. 
+Not everyone knows how to process feedback. Before you start dishing it out, teach them how to filter it or reject it.
 
 ---
 ### 51
@@ -211,7 +211,7 @@ If you set goals and reward people or teams on whether they reach them, they won
 
 ---
 ### 52
-Don't offer outsize rewards—you tempt people to disdain each other, processes and customers. 
+Don't offer outsize rewards—you tempt people to disdain each other, processes and customers.
 
 ---
 ### 53
@@ -235,7 +235,7 @@ Trust is the most powerful tool in your toolbox. You'll never have enough certai
 
 ---
 ### 58
-When your team is ordered to do something they won't like, don't pass your frustration on to them unfiltered. Talk about the compromises; the difficult choices; the information we don't have and won't get; and trusting others even when we don't understand. 
+When your team is ordered to do something they won't like, don't pass your frustration on to them unfiltered. Talk about the compromises; the difficult choices; the information we don't have and won't get; and trusting others even when we don't understand.
 
 ---
 ### 59
@@ -255,7 +255,7 @@ Having more checklists makes a lot of sense once we realise how truly unreliable
 
 ---
 ### 63
-Its OK to keep being involved in deeply technical work. Remember then that you are signing up for two jobs, and won't do either as well as if you were focused on one. To save yourself from burning out: get support; be good at delegation; and say "no" a lot. To make sure your team is not left behind: delegate some coaching and 1-1's to your lieutenants or peers, then check in with everyone frequently enough. 
+Its OK to keep being involved in deeply technical work. Remember then that you are signing up for two jobs, and won't do either as well as if you were focused on one. To save yourself from burning out: get support; be good at delegation; and say "no" a lot. To make sure your team is not left behind: delegate some coaching and 1-1's to your lieutenants or peers, then check in with everyone frequently enough.
 
 ---
 ### 64
@@ -275,7 +275,7 @@ Most organisations do not deal with toxic behaviour quickly enough. They wait fo
 
 ---
 ### 68
-Don't forget to stop sometimes and remind yourself that it's just a job, just a company. Make sure your team knows you think that. If you believe that people need to be coerced into working this will seem to be a very dangerous belief. If you see your work as getting out of people's way because they want to do their best work, you're freeing them to choose what is meaningful. 
+Don't forget to stop sometimes and remind yourself that it's just a job, just a company. Make sure your team knows you think that. If you believe that people need to be coerced into working this will seem to be a very dangerous belief. If you see your work as getting out of people's way because they want to do their best work, you're freeing them to choose what is meaningful.
 
 ---
 ### 69
@@ -283,27 +283,27 @@ It takes a village to raise a team. Share the responsibility with your peers and
 
 ---
 ### 70
-Don't speak for someone unheard, give them a platform. 
+Don't speak for someone unheard, give them a platform.
 
 ---
 ### 71
-Let some things be done either well or not at all: interviews; feedback; and praise. 
+Let some things be done either well or not at all: interviews; feedback; and praise.
 
 ---
 ### 72
-when the team changes the culture must necessarily change. If it doesn't change, did your team improve? 
+when the team changes the culture must necessarily change. If it doesn't change, did your team improve?
 
 ---
 ### 73
-We criticise bad meetings yet so often stop short of learning to do better. It is a skill like so many other parts of your work. Learn to run meetings well and teach others your techniques. 
+We criticise bad meetings yet so often stop short of learning to do better. It is a skill like so many other parts of your work. Learn to run meetings well and teach others your techniques.
 
 ---
 ### 74
-You'll probably have to leave before people will say "you were right." So stop holding your breath. 
+You'll probably have to leave before people will say "you were right." So stop holding your breath.
 
 ---
 ### 75
-If someone keeps asking you for permission, delegate the task: teach them to give themselves permission. 
+If someone keeps asking you for permission, delegate the task: teach them to give themselves permission.
 
 ---
 ### 76
@@ -311,11 +311,11 @@ People will tell you what you want to hear, for reasons either manipulative or a
 
 ---
 ### 77
-Gain a deep understanding of power dynamics and intersectionality and how it plays out with your team. 
+Gain a deep understanding of power dynamics and intersectionality and how it plays out with your team.
 
 ---
 ### 78
-If you encourage people to bring as much of their whole selves as they can, and make it safe to do so, they will. If you do it right you'll get far more than you asked for: hurt, baggage, anger, honesty. What do you do with all that? 
+If you encourage people to bring as much of their whole selves as they can, and make it safe to do so, they will. If you do it right you'll get far more than you asked for: hurt, baggage, anger, honesty. What do you do with all that?
 
 ---
 ### 79
