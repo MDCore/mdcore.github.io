@@ -59,7 +59,7 @@ Worried about needing to give enough negative feedback to a narcissist? It won't
 
 ---
 ### 14
-Some people find it easier to complain than others: take all complaining seriously. Take someone quiet and hesitant who starts complaining _very seriously_.
+Some people find it easier to complain than others: take all complaining seriously. If someone quiet and hesitant starts complaining drop whatever you are doing and give them your full attention.
 
 ---
 ### 15
@@ -71,7 +71,7 @@ Believe someone's self-expression about their abilities and talents over your ow
 
 ---
 ### 17
-A bad relationship in a team will be a handbrake on their ability to adapt. It's your job to fix that relationship.
+A bad relationship in a team will be a handbrake on the team's ability to adapt. It's your job to fix that relationship.
 
 ---
 ### 18
@@ -167,7 +167,7 @@ Don't try and create good culture. Rather: praise healthy actions; treat everyon
 
 ---
 ### 41
-People will behave in ways that may not make sense to you. Accept that as it is. You might ask them about it, if it seems prudent to do so. Be ready for the answer to not make sense either. Remind yourself that you don't always know why you do what you do.
+People will behave in ways that may not make sense to you. Accept that as it is. You might ask them about it, if it seems prudent to do so. Be ready for the answer to make no sense either. Remind yourself that you don't always know why you do what you do.
 
 ---
 ### 42
@@ -203,7 +203,7 @@ You'll get more out of listening than talking. Listening is an active skill, emo
 
 ---
 ### 50
-Not everyone knows how to process feedback. Before you start dishing it out, teach them how to filter it or reject it.
+Not everyone knows how to process feedback. Before you start dishing it out, teach them how to filter or reject it.
 
 ---
 ### 51
@@ -219,7 +219,7 @@ I hope your team is intrinsically motivated enough not to need external rewards,
 
 ---
 ### 54
-Be very wary of trying to be friends with your team. You are setting yourself up for bias and conflicts of interest.
+Be wary of trying to be friends with your team. You are setting yourself up for bias and conflicts of interest.
 
 ---
 ### 55
@@ -239,7 +239,7 @@ When your team is ordered to do something they won't like, don't pass your frust
 
 ---
 ### 59
-Don't let a good idea become a rule; teach people to craft tools for their toolbox, and show them the nuance of when and how to use those tools.
+Don't let a good idea become a rule. Teach people to craft tools for their toolbox, and show them the nuance of when and how to use those tools.
 
 ---
 ### 60
@@ -251,7 +251,9 @@ Every team has their jargon (beyond acronyms.) "Easy" or "quickly": for who and 
 
 ---
 ### 62
-Having more checklists makes a lot of sense once we realise how truly unreliable our memory is (The easiest way to realise this is to simply wait and become old.) Bonus: a checklist makes a neat package for delegating.
+Having more checklists makes a lot of sense once we realise how truly unreliable our memory is (The easiest way to realise this is to simply wait and become old.)
+
+Bonus: a checklist makes a neat package for delegating.
 
 ---
 ### 63
@@ -275,7 +277,7 @@ Most organisations do not deal with toxic behaviour quickly enough. They wait fo
 
 ---
 ### 68
-Don't forget to stop sometimes and remind yourself that it's just a job, just a company. Make sure your team knows you think that. If you believe that people need to be coerced into working this will seem to be a very dangerous belief. If you see your work as getting out of people's way because they want to do their best work, you're freeing them to choose what is meaningful.
+Don't forget to stop sometimes and remind yourself that it's just a job, just a company. Make sure your team knows you think that. If you believe that people need to be coerced into working this will seem to be a dangerous statement to make. If you see your work as getting out of people's way because they want to do their best work, you're freeing them to choose what is meaningful.
 
 ---
 ### 69
@@ -315,11 +317,15 @@ Gain a deep understanding of power dynamics and intersectionality and how it pla
 
 ---
 ### 78
-If you encourage people to bring as much of their whole selves as they can, and make it safe to do so, they will. If you do it right you'll get far more than you asked for: hurt, baggage, anger, honesty. What do you do with all that?
+If you encourage people to bring as much of their whole selves as they can, and make it safe to do so, they will. If you do it right you'll get far more than you asked for: hurt; baggage; anger; honesty.
+
+What do you do with all that?
 
 ---
 ### 79
-Staying enthusiastic with your team can be hard when: there's shit going down that you can't talk about; you've having a bad day; you don't want to be here any more; you don't know if they can do it. All I can say is "you got this bud, I believe in you."
+Staying enthusiastic with your team can be hard when there's shit going down that you can't talk about; you've having a bad day; you don't want to be here any more; you don't know if they can do it; you don't know if _you_ can do it.
+
+All I can say is "you got this bud, I believe in you."
 
 ---
 ### 80

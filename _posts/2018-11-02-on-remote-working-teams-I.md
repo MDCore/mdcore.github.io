@@ -21,8 +21,7 @@ If you report to me I will also give you feedback on your behaviour in our 1-1�
 
 Working on a remote-supportive team is more challenging than working in a purely co-located team, but there are benefits to working in a remote-supportive way. I expect "remote-supportive" to be the default attitude of teams, and I expect teams to be remote-supportive whether people are work-from-home-today, fully-remote, or visiting another team. In a remote-supportive team, where you are physically located should have very little impact on your way of working.
 
-**Saying all this, I acknowledge how it's very difficult to start remote working without some experience of it, and nigh impossible to do without a supportive team.  Getting a team to that place will take time, practice and support.
-**
+>Despite having high expectations on teams to behave in a remote-supportive way, I acknowledge how difficult it is to start remote working without some experience of it, and nigh impossible to do without a supportive team.  Getting a team to that place will take time, practice and support.
 
 Some explanations then:
 
@@ -54,14 +53,14 @@ The lengths of time above (and what “reasonable” means) need to be a shared 
 If you're working from home on a fixed schedule be sure to ask about:
 
 * A headset or microphone.
-* Ergonomics. You need to be healthy and comfortable at home, there are things the BBC can do for that.
+* Ergonomics. You need to be healthy and comfortable at home, there are things the company can help with there.
 * VPN Access: You can't access many internal services from home, so if you aren't expecting to be on the office network very often, signing up for the VPN could be useful.
 
 There are also counter-productive things you should try not to do e.g:
 
 * Work remotely with no notice, such that your team is surprised (and annoyed.)
 * Be unavailable for meetings that you are required for.
-* Under-communicate. This one is a challenge on its own, but being remote means communicating much more than you would if co-located. You don’t get all the free, incidental comms you’d have if you were in the office, so it takes work on your part (and definitely by your co-located teams') to account for this
+* Under-communicate. This one is a challenge on its own, but being remote means communicating much more than you would if co-located. You don’t get all the free, incidental comms you’d have if you were in the office, so it takes work on your part (and definitely by your co-located team) to account for this
 
 ## How does a remote-supportive team work?
 
@@ -70,13 +69,15 @@ There are some basic expectations to have of your remote-supportive team:
 * The team will share locally shared information with remote members.
 * The team ensures that remote workers are included in discussion and decision-making, from planned meetings to ad-hoc chats.
 * The team will ask questions of the remote team members much like they might of local team members: e.g. ask on a chat message or fire up a call to chat via video and/or voice.
-* The team won't say "They are in the office tomorrow, we will ask them then" - a remote team member is to be treated as a co-located one—call them!
+* The team won't say "They are in the office tomorrow, we will ask them then." A remote team member is to be treated as a co-located one—call them!
 
-These mostly come down to being in the habit of being both considerate of non-co-located team members, and also keeping up co-location-like comms expectations. Keeping all this in mind is really difficult though, especially if the team has never worked like this! It takes time, practice and teams openly sharing feedback about improving. This is especially difficult if a minority of people regularly work remote; their voice may need amplifying.
+These mostly come down to being in the habit of being both considerate of non-co-located team members, and also keeping up co-location-like comms expectations. Keeping all this in mind is difficult though, especially if the team has never worked like this. It takes time, practice and team members openly sharing feedback about improving. This is especially difficult if a minority of people regularly work remote; their voice may need amplifying.
+
+---
+
+This is a bit of a segue into how healthy team culture supports remote working.
 
 ## Team Culture
-
-This is a bit of a segue into how team culture supports remote working.
 
 The whole team succeeds by everyone supporting the culture of the team. It is not so much about details like which tools to use and how. The points below apply equally to an entirely co-located team: a healthy team works to maintain a healthy culture.
 
@@ -84,11 +85,11 @@ The whole team succeeds by everyone supporting the culture of the team. It is no
 
 There needs to be general (even explicit) agreement on how the team communicates outward and at what frequency—to local teams, to stakeholders and customers. From answering questions in chat (or email) to updating tickets (and in what format.) Consistency reduces stress and misunderstanding.
 
-Processes are often discussed in team meetings, retrospectives and 1-1's. It could be useful to document them for your team.
+Processes are often discussed in team meetings, retrospectives and 1-1's. It could be useful to document them for your team, and especially help new team members or outside contributors.
 
 ### Continuous Improvement
 
-Healthy teams promote a culture of continuous inspection and improvement. If you write down a set of rules and don’t re-evaluate them they will get stagnant and irrelevant as the landscape changes (and the unwritten rules will nevertheless keep changing, causing tension.) Continuous Improvement is most effective when seen as a daily part of work and not as a separate activity, and there are ways to support that (like Kaizen boards, CI meetings, etc.)
+Healthy teams promote a culture of continuous inspection and improvement. If you write down a set of rules and don’t re-evaluate them they will get stagnant and irrelevant as the landscape changes, while the unwritten rules nevertheless keep changing, causing tension. Continuous Improvement is most effective when seen as a daily part of work and not as a separate activity, and there are ways to support that (like Kaizen boards, CI meetings, etc.)
 
 These discussions are also often had in team meetings, retrospectives and 1-1's.
 
@@ -98,5 +99,5 @@ A remote-supportive team respects all team members (no matter their location) in
 
 This might mean you find yourself writing documents, updating applications, or communicating in methods that are of little direct benefit to you, but benefit other members of your team.
 
- 
+
 The points above are ones that I believe are vital to healthy teams. The team you are in might have more, or different values.
