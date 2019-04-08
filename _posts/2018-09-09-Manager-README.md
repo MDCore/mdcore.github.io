@@ -3,9 +3,9 @@ layout: post
 title: Manager README
 ---
 
-Hi, I'm Gavin. You can see the CV I used to get this job at `[redacted. but email me]` if you want to know more about my working background. The TL;DR is: I'm a career web-dev. I discovered I'm more into people than tech, so I manage people now. 
+Hi, I'm Gavin. I'm a career web-dev. I discovered I'm more into people than tech, so I manage people now. I'm writing this to give you some insights into my approach to work, and working with you. 
 
-I'm writing this to give you some insights into my approach to work, and working with you. Whether you report to me or not you might find the stuff below applicable :) 
+Whether you report to me or not you might find the stuff below applicable. If you want to see me from a CV perspective I can drop you a copy of the CV I used to get this job.
 
 # Some of the ways I think about work and managing
 
