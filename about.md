@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+"There is no outside-text" — Jecques Derrida
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[@MDCore](https://twitter.com/MDCore)
