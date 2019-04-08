@@ -2,17 +2,31 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+<div class="home">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+	<ul class="post-list">
+		{% for post in site.posts %}
+		<li>
+			<article>
+				<header class="post-header">
+					<div>
+						<span>Posted on </span><span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
+					</div>
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+					<h2>
+						<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+					</h2>
+				</header>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+				<div class="entry-content">
+					{{ post.excerpt }}
+					<div class="read-more">🙡 <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">read on</a> 🙣</div>
+				</div>
+			</article>
+		</li>
+		{% endfor %}
+	</ul>
+
+	<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
 </div>
