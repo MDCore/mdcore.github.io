@@ -7,7 +7,7 @@ Eighty thoughts about managing people in 2019. In no particular order.
 
 ---
 ### 1
-Try to meet each individual where they are at: in their career, their  work, their day.
+Try to meet everyone where they are at: in their career, their work, their day.
 
 ---
 ### 2
@@ -31,7 +31,7 @@ You will not succeed at coaching unless the coachee owns the work of their own g
 
 ---
 ### 7
-Don't try to force someone to grow. Let the fields lay fallow if they need to.
+Don't try forcing someone to grow. Let the fields lie fallow.
 
 ---
 ### 8
@@ -75,15 +75,15 @@ A bad relationship in a team will be a handbrake on the team's ability to adapt.
 
 ---
 ### 18
-Teach everyone to lead. Doing unpleasant work, building relationships and healthy delegation are valuable skills for everyone.
+Teach everyone to lead. Doing unpleasant work, building relationships and healthy delegation are valuable skills for anyone.
 
 ---
 ### 19
-Accepting a mistake with kindness and patience can be the difference between a colleague feeling safe or not.
+Accepting a mistake with kindness and patience might be the difference between a colleague feeling safe or not.
 
 ---
 ### 20
-There is no such thing as laziness. Remove the concept from your thinking. Why do people do what they do? What circumstances, disincentives, challenges and systems operate on the person you're thinking of, on all of us? You might be able to find out, you might never know. Be kind.
+There is no such thing as laziness. Remove the concept from your thinking. Why do people do what they do? What circumstances, disincentives, challenges and systems operate on the person you're thinking of, on all of us? You might be able to find out; you might never know. Be kind.
 
 ---
 ### 21
@@ -95,7 +95,7 @@ Spend your time and energy changing the systems that affect your people, and you
 
 ---
 ### 23
-When you change things you'll find out how much people were invested in the status quo. Putting in work in advance will help you (and others) be less surprised.
+When you change things you'll find out how much investment there was in the _status quo_. Putting in work in advance will help you (and others) be less surprised.
 
 ---
 ### 24
@@ -103,7 +103,7 @@ As soon as you find out that the person you are giving feedback to already knows
 
 ---
 ### 25
-Forcing someone to move their desk can be an exceptionally stressful experience for them. And so on for every other sort of change. Be mindful when change happens and cushion the blow as much as you can.
+Forcing someone to move their desk might be an exceptionally stressful experience for them. And so on for every other sort of change. Be mindful when change happens and cushion the blow as much as you can.
 
 ---
 ### 26
@@ -111,7 +111,7 @@ Learn Tuckman's stages of team development: Forming, Storming, Norming, Performi
 
 ---
 ### 27
-Psychological safety is the responsibility of every single team member, so explicitly expect everyone to take that responsibility. Some will take to it more naturally than others, some will need coaching and training—we all have strengths and weaknesses.
+Every team member is responsible for psychological safety, so express that as an explicit expectation. Some will take to it more naturally than others, some will need coaching and training—we all have strengths and weaknesses.
 
 ---
 ### 28
@@ -119,7 +119,7 @@ Be sure to apologise when you make a mistake; or push someone too hard; or overe
 
 ---
 ### 29
-Accept apologies with dignity and compassion.
+Accept an apology with dignity and compassion.
 
 ---
 ### 30
@@ -137,11 +137,11 @@ Push decision-making down to your subordinates, as far as you can.
 
 ---
 ### 33
-Sometimes you have to use your authority to make a decision. People might not like it, they might even say "you said you wouldn't do that." This is the part of the job that isn't fun and shouldn't be.
+Sometimes you have to use your authority to force a decision. People might not like it, they might even say "you said you wouldn't do that." This is the part of the job that isn't fun and shouldn't be.
 
 ---
 ### 34
-You may find your team isn't as advanced as you in technology, process, safety etc. Resist the urge to set "getting the team there" as your goal.
+You may find your team isn't as advanced as you in technology, process, safety, etc. Resist the urge to set "getting the team there" as your goal.
 
 ---
 ### 35
@@ -223,7 +223,7 @@ I hope your team is intrinsically motivated enough not to need external rewards,
 
 ---
 ### 54
-Be wary of trying to be friends with your team. You are setting yourself up for bias and conflicts of interest.
+Be wary of chasing friendships with your team. You are setting yourself up for bias and conflicts of interest.
 
 ---
 ### 55
@@ -243,25 +243,29 @@ When your team is ordered to do something they won't like, don't pass your frust
 
 ---
 ### 59
-Don't let a good idea become a rule. Teach people to craft tools for their toolbox, and show them the nuance of when and how to use those tools.
+Don't let a good idea become a rule. Teach people to craft tools for their toolbox and show them the nuance of when and how to use those tools.
 
 ---
 ### 60
-Bend the rules sometimes but only when using that power makes a real difference to someone less powerful. If you do it because the rule doesn't make sense then you need a new rule with more nuance.
+Bend the rules sometimes but only when using that power makes a real difference to someone less powerful. If you do it because the rule doesn't make sense then you need a new rule with more nuances.
 
 ---
 ### 61
-Every team has their jargon (beyond acronyms.) "Easy" or "quickly": for who and by what process? "Just" can hide a waving away of complexities. Find the jargon that leads to unhelpful thinking, unpack the underlying assumptions, then give people different words to express what they need. The most effective tactic here is humour.
+Every team has their jargon (beyond acronyms.) "Easy" or "quickly": for whom and by what process? "Just" can hide a waving away of complexities. Find the jargon that leads to unhelpful thinking, unpack the underlying assumptions, then give people different words to express what they need. The most effective tactic here is humour.
 
 ---
 ### 62
-Having more checklists makes a lot of sense once we realise how truly unreliable our memory is (The easiest way to realise this is to simply wait and become old.)
+Having checklists makes more sense once we realise how truly unreliable our memory is (The easiest way to realise this is to simply wait and become old.)
 
 Bonus: a checklist makes a neat package for delegating.
 
 ---
 ### 63
-Its OK to keep being involved in deeply technical work. Remember then that you are signing up for two jobs, and won't do either as well as if you were focused on one. To save yourself from burning out: get support; be good at delegation; and say "no" a lot. To make sure your team is not left behind: delegate some coaching and 1-1's to your lieutenants or peers, then check in with everyone frequently enough.
+It's OK to keep being involved in deeply technical work. Remember then that you are signing up for two jobs and won't do either as well as if you focused on one.
+
+To save yourself from burning out: get support; be good at delegation; and say "no" a lot.
+
+To make sure your team is not left behind: delegate some coaching and 1-1's to your lieutenants or peers, then check in with everyone regularly.
 
 ---
 ### 64
@@ -273,7 +277,7 @@ Before each interview put out a bottle or two of water for the candidate—inter
 
 ---
 ### 66
-Most organisations do not deal with toxic behaviour quickly enough. They wait for it to get worse and inevitably chase people away. If you treat toxic behaviour with the urgency it requires you might be accused of overreacting by people with no better plan than "Can't we all just get along". Toxic behaviour kills teams, projects, companies—persevere in this thankless task.
+Most organisations do not deal with toxic behaviour quickly enough. They wait for it to get worse and inevitably chase people away. Treating toxic behaviour with the urgency required might find you accused of overreacting, by people with no better plan than "Can't we all just get along." Toxic behaviour kills teams, projects, companies—persevere in this thankless task.
 
 ---
 ### 67
@@ -281,11 +285,13 @@ Most organisations do not deal with toxic behaviour quickly enough. They wait fo
 
 ---
 ### 68
-Don't forget to stop sometimes and remind yourself that it's just a job, just a company. Make sure your team knows you think that. If you believe that people need to be coerced into working this will seem to be a dangerous statement to make. If you see your work as getting out of people's way because they want to do their best work, you're freeing them to choose what is meaningful.
+Don't forget to stop sometimes and remind yourself that it's just a job, just a company. Make sure your team knows you think that.
+
+If you believe you need to coerce people into working this statement might seem dangerous. If you see your work as getting out of people's way because they want to do their best work, you're freeing them to choose what is meaningful.
 
 ---
 ### 69
-It takes a village to raise a team. Share the responsibility with your peers and subordinates—we all have strengths and weaknesses.
+It takes a village to raise a team. Share your responsibilities with your peers and subordinates—we all have strengths and weaknesses.
 
 ---
 ### 70
@@ -297,7 +303,7 @@ Let some things be done either well or not at all: interviews; feedback; and pra
 
 ---
 ### 72
-when the team changes the culture must necessarily change. If it doesn't change, did your team improve?
+when the team changes, the culture must necessarily change. If it didn't change, did your team improve?
 
 ---
 ### 73
@@ -321,16 +327,18 @@ Gain a deep understanding of power dynamics and intersectionality and how it pla
 
 ---
 ### 78
-If you encourage people to bring as much of their whole selves as they can, and make it safe to do so, they will. If you do it right you'll get far more than you asked for: hurt; baggage; anger; honesty.
+If you make it safe for people to bring as much of their whole selves as they can, they will. If you do it right you'll get far more than you asked for: hurt; baggage; anger; honesty.
 
 What do you do with all that?
 
 ---
 ### 79
-Staying enthusiastic with your team can be hard when there's shit going down that you can't talk about; you've having a bad day; you don't want to be here any more; you don't know if they can do it; you don't know if _you_ can do it.
+Staying enthusiastic with your team is hard when there's shit going down that you can't talk about; you're having a bad day; you don't want to be here any more; you don't know if they can do it; you don't know if _you_ can do it.
 
-All I can say is "you got this bud, I believe in you."
+All I can say is "you got this bud. I believe in you."
 
 ---
 ### 80
 There will always be more work to do. Take care of your mental health and teach others to do the same.
+
+---

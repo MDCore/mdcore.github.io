@@ -10,7 +10,7 @@ Whether you report to me or not you might find the stuff below applicable. If yo
 # Some ways I think about work and managing
 
 ## I default to high autonomy
- I assume you know how to do your job, and want to do it well. I'm not going to be checking your work except in the rarest of circumstances. I largely rely on your team to speak up if they're unhappy with your performance.
+ I assume you know how to do your job, and want to do it well. I won't be checking your work except in the rarest of circumstances. I largely rely on your team to speak up if they're unhappy with your performance.
 
 I trust you already. I trust that you're doing the best you can with what you have. So don't worry too much if you haven't worked with me before, I'll take the time to get to know how you work, and if I have suggestions I'll speak up.
 
@@ -47,19 +47,19 @@ Let me expand on what I think about teams.
 ---
 
 # How I think good teams operate
-A good team respects all team members—no matter their location—including team members from every other discipline: a team is never really homogeneous, and will include roles like developer, designer, tester, PM, BA, PO and indeed every kind of TLA. Working for the benefit of the whole team is more important than working for the benefit of one discipline.
+A good team respects all team members—no matter their location—including team members from every other discipline: a team is never really homogeneous, and will include roles like developer, designer, tester, PM, BA, PO and indeed every kind of TLA. Working for the benefit of the team is more important than working for the benefit of one discipline.
 
 ## A good team works on improving their communication
-Communicating in a team is a hard problem. It takes constant attention and an individual and team desire to improve.
+Communicating in a team is a hard problem. It takes constant attention and an individual and shared desire to improve.
 
 I'm highly likely to diagnose a conflict or issue in a team as a communication breakdown. I expect everyone to work on improving team communication.
 
 Call me on this when I mess up! I still have plenty to learn.
 
 ## A good team nurtures psychological safety
-We spend so much of our time and energy at work, and I want us to be able to be enough of “ourselves” to be able to enjoy it.
+We spend so much of our time and energy at work, and I want us to feel safe to bring enough of “ourselves” that we enjoy it.
 
-It's up to us all to nurture safety. Some things that increase safety (but not all!) are curiosity; openness; a willingness to apologise; a respect for and understanding of individual differences, especially an understanding of what every individual brings to the team.
+It's up to us all to nurture safety. Some things that increase safety (but not all!) are curiosity; openness; a willingness to apologise; a respect for and understanding of individual differences, especially an understanding of what individuals bring to the team.
 
 Some things that reduce safety that we need to at least be mindful of are: unresolved conflict; changes to the team; busyness; and complacency.
 
@@ -81,7 +81,7 @@ This leads to expectations of teamwork like:
 - Sometimes you gotta do work that you find boring, even routinely. It’s not all coding and funtimes.
 - You will (with a reasonable level of enthusiasm) participate in team meetings, including preparing beforehand for them. If you really have nothing to contribute or learn, you'll let the organiser(s) know in advance that you’ll be skipping it. _Meetings are for people not people for meetings._
 - You're contactable by your team during work time (according to what you know your team reasonably expects.) Ideally you'll have some high-bandwidth communications options because it’s good to have an impromptu chat with sound and video.
-- Teams take responsibility for delivering the work. Teams will rally around the work that needs doing, sharing and supporting one another in getting it done. Work doesn't get left behind because an individual has "ownership" of that area. _I am not fond of silos and will not support them_.
+- Teams take responsibility for delivering the work. Teams will rally around the work that needs doing, sharing and supporting one another in getting it done. Work doesn't get ignored because an individual has "ownership" of that area. _I am not fond of silos and will not support them_.
 
 ---
 
