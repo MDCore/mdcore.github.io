@@ -131,7 +131,9 @@ Push decision-making down to your subordinates, as far as you can.
 
 ---
 ### 32
-"A bad system will beat a good person every time." - W. Edwards Deming.
+> A bad system will beat a good person every time.
+
+<cite>W. Edwards Deming</cite>
 
 ---
 ### 33
@@ -171,7 +173,9 @@ People will behave in ways that may not make sense to you. Accept that as it is.
 
 ---
 ### 42
-"The standard you walk past, is the standard you accept." - David Hurley
+> The standard you walk past, is the standard you accept.
+
+<cite>David Hurley</cite>
 
 ---
 ### 43
