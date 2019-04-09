@@ -31,7 +31,7 @@ You will not succeed at coaching unless the coachee owns the work of their own g
 
 ---
 ### 7
-Don't try forcing someone to grow. Let the fields lie fallow.
+Don't force anyone to grow. Let the fields lie fallow for the necessary seasons.
 
 ---
 ### 8
