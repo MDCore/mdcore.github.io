@@ -112,6 +112,7 @@ Sell some more! Talk about:
 4. Remember: you're being interviewed by the candidate now.
 
 **Inviting them for an interview?**
+
 Make sure they know:
 
 1. What time to arrive (p.s. they'll be *at least* 15-30 minutes early so make sure they have somewhere to chill or that you're ready to collect them.)
@@ -145,7 +146,7 @@ Make sure they know:
 > **My Bias (and rants)**
 >
 > 1. I am *deeply sceptical* of the value of a university degree once candidates have even a small amount of experience. I *thoroughly disapprove* of interviewers who put value on *where* you studied: it's a pernicious classism that reinforces structural inequalities. This is a strong bias you can definitely work around.
-> 2. I cringe when I hear interviewers add up how long candidates have spent in roles and assume they're "disloyal." "Loyalty" is bullshit, even more so in interviews.
+> 2. I cringe when I hear interviewers add up how long candidates have spent in roles and assume they're "disloyal." "Loyalty" to corporations is bullshit so don't expect it in interviews.
 
 ---
 
