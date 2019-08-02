@@ -94,11 +94,13 @@ Sell some more! Talk about:
 
 1. Candidates want to know what they'll be in for especially if they're comparing the time and energy needed to interview at different companies. A clearly defined interview process—including how much time it's going to require of the candidate—can be a competitive advantage.
 
-> **My Bias**
+<aside>
+**My Bias**
 
-    1. I am saddened by how imbalanced and unrepresentative my industry is. Writing ads and interviewing is where I can make an impact so I work there to attract candidates that will increase the diversity of our teams.
-    2. I want to reduce candidate anxiety about being "good enough" to apply.
-    3. I want to send all kinds of signals that this is a *good* and *safe* place to work especially for under-represented groups. Assuming that it *is* a good and safe place; if your team isn't one please don't send that message.
+1. I am saddened by how imbalanced and unrepresentative my industry is. Writing ads and interviewing is where I can make an impact so I work there to attract candidates that will increase the diversity of our teams.
+2. I want to reduce candidate anxiety about being "good enough" to apply.
+3. I want to send all kinds of signals that this is a *good* and *safe* place to work especially for under-represented groups. Assuming that it *is* a good and safe place; if your team isn't one please don't send that message.
+</aside>
 
 ---
 
