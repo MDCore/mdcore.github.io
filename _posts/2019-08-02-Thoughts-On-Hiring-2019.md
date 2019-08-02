@@ -8,6 +8,7 @@ I have opinions about the hiring process and how we treat candidates. Here are a
 ## Scope
 
 **What's In Scope Here**
+
 The scope of this post is:
 
 1. I have a role, open for a fixed amount of time.
@@ -16,6 +17,7 @@ The scope of this post is:
 4. Especially rejected candidates.
 
 **What's Not In Scope Here**
+
 Topics not in scope are ones that are: long-term; out of my control in 2019; or where I simply want you to do your own homework. E.g.:
 
 1. Public perception of the company—you may have no to some control over this but it's a broader woollier topic.
@@ -23,6 +25,8 @@ Topics not in scope are ones that are: long-term; out of my control in 2019; or 
 3. Open roles where you'll work out where to place candidates once you hire them. The principles still apply, but the language about comparing candidates won't.
 4. Salary negotiations—I am not involved in salary negotiation in 2019.
 5. Assumptions based on research about bias, diversity, equality etc. e.g. "Why do long lists of requirements disproportionately put off under-represented groups?"—y'all need to do some reading 💁
+
+---
 
 ## 0. Who Are We Recruiting and Why?
 
@@ -34,6 +38,8 @@ Some things to think about when filling an open role:
 4. How welcoming is my team of people who are different from them?
 5. I find the work of writing the ad helps here so see Section 2 "The Job Advertisement".
 
+---
+
 ## 1. Working With Your Recruiter
 
 1. Get to know and **work closely with your recruiter**: you're on the same team.
@@ -41,6 +47,8 @@ Some things to think about when filling an open role:
 3. Don't expect your recruiter to do everything or be responsible for everything. It's ok to check e.g. making sure candidates are getting their feedback.
 4. It's your responsibility to keep up the high standards you aim for even when it means it can only be done detached via your recruiter.
 5. Candidates will ask the recruiter what your team is like so **leave your recruiter with a great impression**: be excited about your team, about hiring and treat them with respect.
+
+---
 
 ## 2. The Job Advertisement
 
@@ -57,9 +65,11 @@ Some things to think about when filling an open role:
 Here's a rough breakdown of content I think makes sense in an ad. The breakdown below is structured around an "individual contributor in tech" role, but isn't too far from other sorts of roles.
 
 **15% About the company**
+
 Sell sell sell!
 
 **30% About the team**
+
 Sell some more! Talk about:
 
 1. The team structure—the breakdown of seniority, role or expertise. Include the whole team not just developers.
@@ -85,9 +95,12 @@ Sell some more! Talk about:
 1. Candidates want to know what they'll be in for especially if they're comparing the time and energy needed to interview at different companies. A clearly defined interview process—including how much time it's going to require of the candidate—can be a competitive advantage.
 
 > **My Bias**
+
     1. I am saddened by how imbalanced and unrepresentative my industry is. Writing ads and interviewing is where I can make an impact so I work there to attract candidates that will increase the diversity of our teams.
     2. I want to reduce candidate anxiety about being "good enough" to apply.
     3. I want to send all kinds of signals that this is a *good* and *safe* place to work especially for under-represented groups. Assuming that it *is* a good and safe place; if your team isn't one please don't send that message.
+
+---
 
 ## 3. The Post-application Experience
 
@@ -115,6 +128,8 @@ Make sure they know:
 3. If you have treated a candidate well up to now they are more likely to say good things about your interview process to others and may even be willing to try again later.
 4. If you know of other opportunities then put them forward (with their consent!) It's unlikely they know the scope of your organisation and where they might fit in better; or even what is available.
 
+---
+
 ## 4. Reviewing CVs
 
 **Guiding Principles**
@@ -128,8 +143,11 @@ Make sure they know:
 7. Have your recruiter or someone outside the process try to remove the most egregious bias-causing elements e.g. photographs, hobbies & interests.
 
 > **My Bias (and rants)**
+
     1. I am *deeply sceptical* of the value of a university degree once candidates have even a small amount of experience. I *thoroughly disapprove* of interviewers who put value on *where* you studied: it's a pernicious classism that reinforces structural inequalities. This is a strong bias you can definitely work around.
     2. I cringe when I hear interviewers add up how long candidates have spent in roles and assume they're "disloyal." "Loyalty" is bullshit, even more so in interviews.
+
+---
 
 ## 5. The Interview Panel
 
@@ -144,9 +162,12 @@ Make sure they know:
 7. Try as much as you can to keep the same panel members across batches of interviews—when you want to compare candidates you want the same set of interviewers comparing.
 
 > **My Bias**
+
     1. I choose to have **a 4-person interview panel**. There is research that suggests that 4 is the sweet-spot for reducing bias.
     2. Some folks express concern about the intimidation of facing 4 people in an interview room and I acknowledge this concern. Interviewing is all about trade-offs and I mitigate this potential stress by spending time and energy being supportive and encouraging before, during and after the interview.
     3. **Reducing anxiety** is my #1 task in interviews. Because it's something I personally suffer with and because I believe a relaxed candidate will find it easier to shine. It also levels the playing field for introverts.
+
+---
 
 ## 6. Tech Tests
 1. Tech tests must pass the same scrutiny as any interview question: **What do you want to learn about the candidate?**
@@ -157,6 +178,7 @@ Make sure they know:
 6. Can you answer any of these questions satisfactorily in the interview rubric?
 
 *Some thoughts on different kinds of tests:*
+
 **The Take-home Tech Test**
 
 1. Is your tech test time-consuming? This will increase drop-out rates at this stage.
@@ -176,6 +198,7 @@ Make sure they know:
 6. How much value can you learn from a demonstrably afraid and stupid candidate mashing a keyboard for far less time than you would spend on a 1 point ticket?
 
 > **My Bias and "eh"**
+
     1. Yikes, tech tests. It's probably clear I'm not a superfan.
     2. This is the place that technical people sometimes go a bit over-the-top or forget how little a tech test can *accurately* tell you.
     3. If you're sceptical about specific claims on a candidates CV then a generic, for-all-candidates tech test is unlikely to set your mind at ease.
@@ -184,6 +207,8 @@ Make sure they know:
     6. I’ve also heard some folks mention reviewing code or fixing tests instead of getting candidates to write something from scratch.
     7. Some folks have suggested paying candidates to work on a take-home test, as an incentive or to reduce drop-out rates. Eh. You're almost certainly just throwing money at the candidates who already had plenty of time; a few quid does not generally magic responsibilities away. There are also tax and legal implications for the candidates and additional admin too for multiple departments.
     8. I don't think there are any easy answers.
+
+---
 
 ## 7. The Interview Rubric aka Questions aka Grid
 
@@ -200,7 +225,9 @@ Make sure they know:
 9. Your rubric should read as rather boring. That's a good thing! It's your candidates answers to the questions that should be interesting and different: that's what will let you differentiate between them.
 
 > **My Bias**
-    1. Technical stuff is about a quarter or less of my ideal rubric and is focused more on thinking and problem-solving, not so much trivia. If I can find that answer in 2 seconds on a search engine it's not a good interview question.
+    Technical stuff is about a quarter or less of my ideal rubric and is focused more on thinking and problem-solving, not so much trivia. If I can find that answer in 2 seconds on a search engine it's not a good interview question.
+
+---
 
 ## 8. The Interview Event
 
@@ -242,9 +269,12 @@ Make sure they know:
 6. A candidate that feels good after an interview will say good things about you to others and may even be willing to try again if you reject them.
 
 > **My Bias (and rants)**
+
     1. If you're looking for "passion" in candidates please stop. "Work passion" is probably biased towards extroverts or people that "look like you." Stick to the questions and the predefined competencies of the role, not how "passionate" they are about writing code, learning or working at your company.
     2. If you're still looking for "passion" then I'd recommend you look it up in a dictionary and see if the "work passion" definition matches any kind of real passion. E.g. You can probably tell I am very *passionate* about this point and about reminding folks that they have no idea how to suss this "work passion" out in an interview in a way that isn't horribly biased and inaccurate. Just don't.
     3. ❤️
+
+---
 
 ## 9. Candidate Scoring
 
@@ -275,11 +305,15 @@ Make sure they know:
 > **My Bias**
     I use scoring of 1-4, no half points. It makes scoring tricky but in way that forces you to commit.
 
+---
+
 ## 10. Making a Decision
 
 1. This is it. Your candidates are all interviewed, scored and evaluated. As the hiring manager the final responsibility is likely down to you. Any decision you make has to be justifiable, based on the scoring and feedback. You're not only answerable to your superiors but the team you're hiring for.
 2. If you're lucky there will be a clear winner(s).
 3. Don't forget to pass the feedback on to candidates.
+
+---
 
 ## Don't Forget to Inspect and Adapt Either
 1. There's value in doing a retrospective on the hiring process with your panel and recruiter. Include any recent hires too!
