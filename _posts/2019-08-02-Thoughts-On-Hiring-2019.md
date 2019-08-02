@@ -94,13 +94,11 @@ Sell some more! Talk about:
 
 1. Candidates want to know what they'll be in for especially if they're comparing the time and energy needed to interview at different companies. A clearly defined interview process—including how much time it's going to require of the candidate—can be a competitive advantage.
 
-<aside>
-**My Bias**
-
-1. I am saddened by how imbalanced and unrepresentative my industry is. Writing ads and interviewing is where I can make an impact so I work there to attract candidates that will increase the diversity of our teams.
-2. I want to reduce candidate anxiety about being "good enough" to apply.
-3. I want to send all kinds of signals that this is a *good* and *safe* place to work especially for under-represented groups. Assuming that it *is* a good and safe place; if your team isn't one please don't send that message.
-</aside>
+> **My Bias**
+>
+> 1. I am saddened by how imbalanced and unrepresentative my industry is. Writing ads and interviewing is where I can make an impact so I work there to attract candidates that will increase the diversity of our teams.
+> 2. I want to reduce candidate anxiety about being "good enough" to apply.
+> 3. I want to send all kinds of signals that this is a *good* and *safe* place to work especially for under-represented groups. Assuming that it *is* a good and safe place; if your team isn't one please don't send that message.
 
 ---
 
@@ -145,9 +143,9 @@ Make sure they know:
 7. Have your recruiter or someone outside the process try to remove the most egregious bias-causing elements e.g. photographs, hobbies & interests.
 
 > **My Bias (and rants)**
-
-    1. I am *deeply sceptical* of the value of a university degree once candidates have even a small amount of experience. I *thoroughly disapprove* of interviewers who put value on *where* you studied: it's a pernicious classism that reinforces structural inequalities. This is a strong bias you can definitely work around.
-    2. I cringe when I hear interviewers add up how long candidates have spent in roles and assume they're "disloyal." "Loyalty" is bullshit, even more so in interviews.
+>
+> 1. I am *deeply sceptical* of the value of a university degree once candidates have even a small amount of experience. I *thoroughly disapprove* of interviewers who put value on *where* you studied: it's a pernicious classism that reinforces structural inequalities. This is a strong bias you can definitely work around.
+> 2. I cringe when I hear interviewers add up how long candidates have spent in roles and assume they're "disloyal." "Loyalty" is bullshit, even more so in interviews.
 
 ---
 
@@ -164,10 +162,10 @@ Make sure they know:
 7. Try as much as you can to keep the same panel members across batches of interviews—when you want to compare candidates you want the same set of interviewers comparing.
 
 > **My Bias**
-
-    1. I choose to have **a 4-person interview panel**. There is research that suggests that 4 is the sweet-spot for reducing bias.
-    2. Some folks express concern about the intimidation of facing 4 people in an interview room and I acknowledge this concern. Interviewing is all about trade-offs and I mitigate this potential stress by spending time and energy being supportive and encouraging before, during and after the interview.
-    3. **Reducing anxiety** is my #1 task in interviews. Because it's something I personally suffer with and because I believe a relaxed candidate will find it easier to shine. It also levels the playing field for introverts.
+>
+> 1. I choose to have **a 4-person interview panel**. There is research that suggests that 4 is the sweet-spot for reducing bias.
+> 2. Some folks express concern about the intimidation of facing 4 people in an interview room and I acknowledge this concern. Interviewing is all about trade-offs and I mitigate this potential stress by spending time and energy being supportive and encouraging before, during and after the interview.
+> 3. **Reducing anxiety** is my #1 task in interviews. Because it's something I personally suffer with and because I believe a relaxed candidate will find it easier to shine. It also levels the playing field for introverts.
 
 ---
 
@@ -200,15 +198,15 @@ Make sure they know:
 6. How much value can you learn from a demonstrably afraid and stupid candidate mashing a keyboard for far less time than you would spend on a 1 point ticket?
 
 > **My Bias and "eh"**
-
-    1. Yikes, tech tests. It's probably clear I'm not a superfan.
-    2. This is the place that technical people sometimes go a bit over-the-top or forget how little a tech test can *accurately* tell you.
-    3. If you're sceptical about specific claims on a candidates CV then a generic, for-all-candidates tech test is unlikely to set your mind at ease.
-    4. You probably still want to do *some* kind of technical test—so you're going to have to choose which trade-offs you want to make.
-    5. Some folks have suggested that the best of both worlds is to offer candidates a choice. I can imagine this working but I can imagine this making it really hard to compare candidates. If you're only comparing candidates to an objective scoring measure this approach could well be the kindest.
-    6. I’ve also heard some folks mention reviewing code or fixing tests instead of getting candidates to write something from scratch.
-    7. Some folks have suggested paying candidates to work on a take-home test, as an incentive or to reduce drop-out rates. Eh. You're almost certainly just throwing money at the candidates who already had plenty of time; a few quid does not generally magic responsibilities away. There are also tax and legal implications for the candidates and additional admin too for multiple departments.
-    8. I don't think there are any easy answers.
+>
+> 1. Yikes, tech tests. It's probably clear I'm not a superfan.
+> 2. This is the place that technical people sometimes go a bit over-the-top or forget how little a tech test can *accurately* tell you.
+> 3. If you're sceptical about specific claims on a candidates CV then a generic, for-all-candidates tech test is unlikely to set your mind at ease.
+> 4. You probably still want to do *some* kind of technical test—so you're going to have to choose which trade-offs you want to make.
+> 5. Some folks have suggested that the best of both worlds is to offer candidates a choice. I can imagine this working but I can imagine this making it really hard to compare candidates. If you're only comparing candidates to an objective scoring measure this approach could well be the kindest.
+> 6. I’ve also heard some folks mention reviewing code or fixing tests instead of getting candidates to write something from scratch.
+> 7. Some folks have suggested paying candidates to work on a take-home test, as an incentive or to reduce drop-out rates. Eh. You're almost certainly just throwing money at the candidates who already had plenty of time; a few quid does not generally magic responsibilities away. There are also tax and legal implications for the candidates and additional admin too for multiple departments.
+> 8. I don't think there are any easy answers.
 
 ---
 
@@ -227,7 +225,8 @@ Make sure they know:
 9. Your rubric should read as rather boring. That's a good thing! It's your candidates answers to the questions that should be interesting and different: that's what will let you differentiate between them.
 
 > **My Bias**
-    Technical stuff is about a quarter or less of my ideal rubric and is focused more on thinking and problem-solving, not so much trivia. If I can find that answer in 2 seconds on a search engine it's not a good interview question.
+>
+>    Technical stuff is about a quarter or less of my ideal rubric and is focused more on thinking and problem-solving, not so much trivia. If I can find that answer in 2 seconds on a search engine it's not a good interview question.
 
 ---
 
@@ -271,10 +270,10 @@ Make sure they know:
 6. A candidate that feels good after an interview will say good things about you to others and may even be willing to try again if you reject them.
 
 > **My Bias (and rants)**
-
-    1. If you're looking for "passion" in candidates please stop. "Work passion" is probably biased towards extroverts or people that "look like you." Stick to the questions and the predefined competencies of the role, not how "passionate" they are about writing code, learning or working at your company.
-    2. If you're still looking for "passion" then I'd recommend you look it up in a dictionary and see if the "work passion" definition matches any kind of real passion. E.g. You can probably tell I am very *passionate* about this point and about reminding folks that they have no idea how to suss this "work passion" out in an interview in a way that isn't horribly biased and inaccurate. Just don't.
-    3. ❤️
+>
+> 1. If you're looking for "passion" in candidates please stop. "Work passion" is probably biased towards extroverts or people that "look like you." Stick to the questions and the predefined competencies of the role, not how "passionate" they are about writing code, learning or working at your company.
+> 2. If you're still looking for "passion" then I'd recommend you look it up in a dictionary and see if the "work passion" definition matches any kind of real passion. E.g. You can probably tell I am very *passionate* about this point and about reminding folks that they have no idea how to suss this "work passion" out in an interview in a way that isn't horribly biased and inaccurate. Just don't.
+> 3. ❤️
 
 ---
 
@@ -305,7 +304,8 @@ Make sure they know:
 3. If you don't know what legal and illegal discrimination looks like when evaluating candidates—and how it may affect your bias—it's worth doing that research or training as soon as possible.
 
 > **My Bias**
-    I use scoring of 1-4, no half points. It makes scoring tricky but in way that forces you to commit.
+>
+> I use scoring of 1-4, no half points. It makes scoring tricky but in way that forces you to commit.
 
 ---
 
