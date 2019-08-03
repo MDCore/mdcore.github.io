@@ -20,10 +20,11 @@ $font-path-file-name: {{ site.baseurl }}/assets/fonts/$font-name/$font-name;
 
 
 // Our variables
-$base-font-family: "Libre Baskerville", Baskerville, "Book Antiqua", Georgia, Times, serif;
-$base-font-size:   17px;
+//$base-font-family: "Libre Baskerville", Baskerville, "Book Antiqua", Georgia, Times, serif;
+$base-font-family: "Montserrat", Baskerville, "Book Antiqua", Georgia, Times, serif;
+$base-font-size:   18px;
 $base-font-weight: 400;
-$base-line-height: 2;
+$base-line-height: 1.6;
 
 $small-font-size:  $base-font-size * 0.875;
 
@@ -31,7 +32,8 @@ $spacing-unit:     30px;
 
 $brand-color:      #787065;
 $background-color: #f2f1ed;
-$text-color:       #363431;
+//$text-color:       #363431;
+$text-color:       #191817;
 $title-color:      #943526;
 
 $grey-color:       #a09a92;
@@ -39,10 +41,10 @@ $grey-color-light: lighten($grey-color, 30%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$content-width:    800px;
+$content-width:    1000px;
 
 $on-palm:          600px;
-$on-laptop:        800px;
+$on-laptop:        1000px;
 
 
 

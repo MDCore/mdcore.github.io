@@ -41,6 +41,9 @@ h2 {
     color: $grey-color-dark;
 }
 
+.entry-content h4 {
+	text-decoration: $grey-color underline;
+}
 
 /**
  * Articles
@@ -254,6 +257,7 @@ li {
 h1, h2, h3, h4, h5, h6 {
     line-height: initial;
     font-weight: $base-font-weight;
+	font-family: "Playfair Display";
 }
 
 
@@ -262,7 +266,7 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $brand-color;
+    color: $text-color;
     text-decoration: none;
 
     &:hover {
