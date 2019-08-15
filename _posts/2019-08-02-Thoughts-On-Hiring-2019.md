@@ -235,7 +235,7 @@ Make sure they know:
 ### Guiding Principles
 
 1. While your advertisement was about casting a wide net, your rubric is about filtering candidates and giving you information to fairly compare them and make a hiring decision.
-2. What do you *need* to know about all your candidates to inform you in making good decision?
+2. What do you *need* to know about all your candidates to inform you in making a good decision?
 3. Use a standard rubric for every candidate that you want to compare—this may be per role or even across multiple roles over time. Without this you don't have a hope of comparing candidates beyond your bias.
 4. DRY (Don't Repeat Yourself) is important here and something technically-focused interviewers often fall foul of. For example "What do you know about Technology X? Have you used Design Pattern Y?" when it's unlikely a candidate wouldn't be able to talk about the second if they can the first. Or asking multiple questions about different types of problem-solving when you can find a clear answer with one. Think deeply about the value of each question and what information it will give you about all the candidates that will let you compare them.
 5. Have your technical questions be broad. Being too specific risks having trivia questions (which are poor signals.) A broad question lets you dig into their thinking and gives you an opportunity to ask about claims made in their CV and how it applies to the question at hand.
