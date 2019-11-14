@@ -71,7 +71,7 @@ There are some basic expectations to have of your remote-supportive team:
 * The team will ask questions of the remote team members much like they might of local team members: e.g. ask on a chat message or fire up a call to chat via video and/or voice.
 * The team won't say "They are in the office tomorrow, we will ask them then." Treat a remote team member like a co-located one—call them!
 
-These mostly come down to being in the habit of being both considerate of non-co-located team members, and keeping up co-location-like communication behaviours. Getting this right is difficult though, especially if the team has never worked like this. It takes time, practice and team members openly sharing feedback about improving. This is especially difficult if aonly some regularly work remote; their voice may need amplifying.
+These mostly come down to being in the habit of being both considerate of non-co-located team members, and keeping up co-location-like communication behaviours. Getting this right is difficult though, especially if the team has never worked like this. It takes time, practice and team members openly sharing feedback about improving. This is especially difficult if only some regularly work remote; their voice may need amplifying.
 
 ---
 
