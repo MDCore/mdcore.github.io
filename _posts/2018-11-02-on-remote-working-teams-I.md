@@ -34,19 +34,20 @@ This can include situations like:
 * Working remotely on a fixed schedule of 1-5 days a week
 * Working on a train while travelling to a course
 
-Different situations will mean different amounts of attention being paid to communication (e.g. while travelling it makes sense to skip meetings that you can catch up.) Whereas someone worked from home needs a team that includes them in discussion and decision-making, from planned meetings to ad-hoc chats.
+Different situations will mean different amounts of attention being paid to communication (e.g. while travelling it makes sense to skip meetings that you can catch up.) Whereas someone working from home needs a team that includes them in discussion and decision-making, from planned meetings to ad-hoc chats.
 
 ## How do I do remote work if I've never done it before?
 
-If you're just starting out with remote work we'll connect with you someone who is comfortable doing it, and talk to you and your team about how it'll work.
+If you're just starting out with remote work we'll connect with you someone (or even a whole team) who is comfortable doing it, and talk to you and your team about how it'll work.
 
 There are a few expectations that are common to our remote-supportive teams:
 
-* You're available during core hours (10am - 4pm), and you'll keep your team roughly up-to-date on your usual hours.
+* You're available during core hours, and you'll keep your team roughly up-to-date on your usual working hours.
 * You'll have reliable Internet, and be able to sustain video chat.
 * You’ll use a headset on calls - it prevents a lot of sound quality issues.
 * You’ll have a reasonable response time on text chat.
 * You won't be uncontactable for long periods of time (remote-work is not an opportunity to go dark.)
+* Say "hi" on chat when you start your day. Say "bye" when you stop for the day. Acknowledge others who do this. 
 
 The lengths of time above (and what “reasonable” means) is a shared team understanding. If you aren't sure, make it clear with your team. If you think the team isn't in agreement with what you want, make that clear too—I'm happy to help with clarifying these standards.
 
