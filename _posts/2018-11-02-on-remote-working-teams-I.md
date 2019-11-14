@@ -61,6 +61,7 @@ There are also counter-productive things you should try not to do e.g:
 
 * Work remotely with no notice, such that your team is surprised (and annoyed.)
 * Be unavailable for meetings that you are required for.
+* Be late for and have to be constantly reminded to dial in to meetings (it will frustrate your team.)
 * Under-communicate. This one is a challenge on its own, but being remote means communicating much more than you would if co-located. You don’t get all the free, incidental comms you’d have if you were in the office, so it takes work on your part (and definitely by your co-located team) to account for this.
 
 ## How does a remote-supportive team work?
