@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Manager README
+title: Manager README 2018
 ---
 
-Hi, I'm Gavin. I'm a career web-dev. I discovered I'm more into people than tech, so I manage people now. I'm writing this to give you some insights into my approach to work, and working with you.
+Hi, I'm Gavin. I'm a career web-dev. I discovered I'm more into people than tech, so I manage people now. I'm writing this to give you some insights into my approach to work, and working with you. Whether you report to me or not you might find the stuff below applicable.
 
-Whether you report to me or not you might find the stuff below applicable. If you want to see me from a CV perspective I can send you what I used to get this job.
+<!--more-->
 
 # Some ways I think about work and managing
 
@@ -92,6 +92,10 @@ If you want to read more, here's some stuff to Google:
 - W. Edwards Deming — Continuous Improvement; a giant
 - Theory Z of Ouchi — Deming-based management theory
 - Systems Thinking — People act the way they do because of the systems they're part of. Fix the system not the people. I considered putting this as a section above but it seemed too broad. Read about it anyway!
+
+---
+# If you want to see me from a CV perspective
+Ask: I'll send you what I used to get this job.
 
 ---
 

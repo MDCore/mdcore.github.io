@@ -4,6 +4,7 @@ title: Thoughts On Hiring 2019
 ---
 
 I have opinions about the hiring process and how we treat candidates. Here are a few of them.
+<!--more-->
 
 ---
 

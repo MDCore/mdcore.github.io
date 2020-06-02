@@ -4,6 +4,7 @@ title: Postmodern People Management I
 ---
 
 Eighty thoughts about managing people in 2019. In no particular order.
+<!--more-->
 
 ---
 ### 1

@@ -4,6 +4,7 @@ title: Nonviolent Communication Slides 2020
 ---
 
 I neatened up my nonviolent communication talk for a presentation recently. Here it is.
+<!--more-->
 
 ---
 
