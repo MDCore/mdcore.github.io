@@ -38,7 +38,7 @@ The scribe is expected to jot down the decisions and actions of this meeting and
 Others may also take notes for their own purposes, that is ok.
 
 ### 2. Decide on the objective and purpose of the meeting
-This doesn't need to be stated at the beginning of every meeting, especially for short quick ones. It's firstly important for the facilitator to know, so that they can guide the meeting toward that objective. Some good reasons to share it upfront are:
+This doesn't need to be stated at the beginning of every meeting, especially for short quick ones. It's important for the facilitator to keep it in mind, so that they can guide the meeting toward that objective. Some good reasons to share it upfront are:
 * This is a new or infrequent meeting.
 * This is a long meeting.
 * There are new participants.
@@ -117,14 +117,14 @@ Some questions to consider in deciding how to respond:
 * Are any of the parties side-tracking?
 * Is it becoming _personal_?
 
-Your priority here is to de-escalate conflict and help the conversation move towards the meeting goals. If you decide you need to take action here are some possible actions you can take:
-* Add some of your influence by helping the weaker party explain themselves better. Use "Yes, and" or "What I hear you saying is" here.
-* Make space for others in the room. You could even call out individuals. Bringing in a peace-maker or adding an alternate view can de-escalate conflict - but be aware it may not!
-* Step in and halt or Parking Lot the conversation. This is likely to be awkward.
-* If the situation has become especially tense, take a few minutes break. This level of _heat_ is a relatively rare situation to be in, and the strong feeling and unmet needs they brought to the meeting can't be dealt with in the moment; and are beyond the scope of your responsibility as a facilitator (and beyond the scope of this document.)
+Your priority here is to de-escalate unhealthy conflict and help the conversation move towards the meeting goals. If you decide you need to take action here are some possible actions you might take:
+* Help parties explain themselves better - use "Yes, and" or "What I hear you saying is" here. Rephrase into neutral or objective language. Solicit agreement with your summary.
+* Make space for others in the room. You could even call out individuals. Bringing in a peace-maker or adding an alternate view can de-escalate conflict&mdash;but be aware it may not!
+* Step in and halt or Park the conversation. This is likely to be awkward.
+* If the situation has become especially tense, take a few minutes break. This level of _heat_ is a relatively rare situation to be in, and the strong feeling and unmet needs they brought to the meeting can't be dealt with in the moment&mdash;they are beyond the scope of your responsibility as a facilitator (and beyond the scope of this document.)
 
 ### 7. Enable conflict
-After writing about de-escalating conflict as a priority it may seem odd to suggest enabling conflict. Conflict in itself is not negative and disagreement and discussion can lead to better outcomes. If "conflict" is too strong a word here then think of it as "enabling disagreement." Some groups may struggle to open up and engage because they are afraid to be disagreeable.
+After writing about de-escalating conflict it may seem odd to suggest enabling conflict. Conflict in itself is not negative and disagreement and discussion can lead to better outcomes. If "conflict" is too strong a word here then think of it as "enabling disagreement." Some groups may struggle to open up and engage because they are afraid to be disagreeable.
 
 Some questions to consider if you are sensing this situation:
 * Is there only one powerful voice talking?
