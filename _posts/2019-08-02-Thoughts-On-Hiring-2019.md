@@ -160,7 +160,7 @@ Make sure they know:
 1. Look back to the questions in Section 0 "Who are you recruiting and why" as a reminder to yourself (and other reviewers) of what role you want to fill.
 2. You almost certainly have an "ideal candidate" in mind—it's human nature—but you'll have to chose from the candidates available. Try to make space for a candidate that's different from what you expected. Sharing reviews with your panel will help here because everyone will have different ideal candidates.
 3. Learn about **unconscious bias** and continue the work to bring yours into your awareness.
-4. Find boundaries you can put place to mitigate your **conscious bias**.
+4. Find boundaries you can put in place to mitigate your **conscious bias**.
 5. **Don't confuse** ***Opportunity*** **and** ***Potential***: a candidate's CV experience is only a representation of where they've worked. Why do they want an interview with you? A candidate is more likely to want a change of track than simply be lazily applying for any role. Be open to candidates wanting a big change.
 6. Look to your carefully crafted *interview rubric* to dig into a candidate's *potential* instead of rejecting them because they may have had limited opportunities to put on their CV.
 7. Have your recruiter or someone outside the process try to remove the most egregious bias-causing elements from CV's e.g. photographs, hobbies & interests. Some organisations even remove names.
@@ -259,7 +259,7 @@ Make sure they know:
 ### Guiding Principles
 
 1. You're excited the candidate is here 🤩. You want them to shine, to be their best and you will act and speak to help them do that. This applies to everyone on the panel.
-2. You will make a snap judgement about the candidate the second they walk through the door-That's how the brain works. It's human nature to have internal short-hand reactions like "good looking = smart" or "tall = intimidating"; just hope they don't look like someone you know! This is **unconscious bias** at work. Most traditional interviewing is about subconsciously looking for ways to justify that snap judgement but you and your panel's challenge is to be aware, stick to the interview protocol and evaluate the candidates as fairly you can.
+2. You will make a snap judgement about the candidate the second they walk through the door-that's how the brain works. It's human nature to have internal short-hand reactions like "good looking = smart" or "tall = intimidating"; just hope they don't look like someone you know! This is **unconscious bias** at work. Most traditional interviewing is about subconsciously looking for ways to justify that snap judgement but you and your panel's challenge is to be aware, stick to the interview protocol and evaluate the candidates as fairly you can.
 
 ### Before You Get Going
 
