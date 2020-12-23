@@ -9,7 +9,7 @@ People management is skill, craft and professionalism.
 
 A manager's role-category is "support", specifically supporting teams. A low view of a technical manager's role is that of decision-maker and lead technical contributor—this is hardly better than having an extra senior engineer around.
 
-Looking instead at where a manager can add value beyond "experienced engineer promoted" here are some attributes of a technical manager engaging with their craft and profession:
+Looking instead at where a manager can add value outside of "experienced engineer promoted" here are some attributes of a technical manager engaging with their craft and profession:
 1. They understand power dynamics and how it affects their relationships.
 1. They have some domain experience, but not too much that they are distracted from their work. They know that relying on it for success is a red flag, and disempowers teams and individual contributors.
 1. They cultivate and grow their influence and use it to empower others.
@@ -18,7 +18,7 @@ Looking instead at where a manager can add value beyond "experienced engineer pr
 1. They support their teams in making good decisions by:
 	1. Coaching teamies of every level in the skills of leading. Everyone is capable of leadership.
 	2. Running effective meetings, and teaching all to do the same. Facilitation is a learnable skill.
-	3. Teaching and facilitating agile collaborative decision making, not simply encouraging democratic or technocratic decision-making.
+	3. Teaching and facilitating agile collaborative decision-making, not simply encouraging democratic or technocratic decision-making.
 1. They know what expectations to maintain of teams, what to expect from individuals in those teams and why those expectations are different.
 1. They know how to surface and talk about strengths, about growth, about insight; in individual 1-1's and to whole teams.
 1. They know how to listen and hear.
