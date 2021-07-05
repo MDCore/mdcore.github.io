@@ -3,7 +3,7 @@ layout: post
 title: A thread about adding a new teamie
 ---
 
-I wrote a little thread about a story that happened a while back, because I've seen how easy it is to get this wrong. I say the key learning really directly, even though it's a subtle and challenging one: everyone else *can* be wrong.
+A little story that happened a while back, when a woman joined one of my all-male teams. I put it to words because I've seen how easy it is to mismanage this important transition. I say the key learning really directly, even though it's a subtle and challenging one: everyone else *can* be wrong.
 
 <!--more-->
 
