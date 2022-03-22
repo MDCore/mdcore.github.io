@@ -2,7 +2,7 @@
 layout: post
 title: PETALs in Engineering Management
 ---
-Or how Engineering Managers end up not managing engineers.
+Principal Engineers That Approve Leave, or how Engineering Managers end up not managing engineers.
 
 <!--more-->
 ----
@@ -12,7 +12,7 @@ In this organisation the technical counterpart to my role was Principal Engineer
 
 Unfortunately this came to define what "good" looked like in the role: strong technical skills, no work put into unnecessary people skills, and (almost exclusively) male-presenting. This mix of attributes led to toxic behaviour towards women. Ignoring valuable-to-the-team people skills, poor coaching, and biased interview practices led to women being treated poorly as individual contributors, and explicitly not promoted to Team Lead roles because they "weren't technical enough" (from all the other opportunities they had been denied).
 
-**I call these kinds of managers PETALs**. Firstly because _SETL_ (settle) and _PETAL_ rhyme, _obviously!_<sup id="a5">[[5]](#f5)</sup> But mainly because this model often leads to a fragile sort of toxically masculine<sup id="a6">[[6]](#f6)</sup> approach to engineering management, squeezing out and discounting the vitality in what is usually the domain of the "soft" (human) skills.
+**I call these kinds of managers PETALs, or Principal Engineers That Approve Leave**. Firstly because _SETL_ (settle) and _PETAL_ rhyme, _obviously!_<sup id="a5">[[5]](#f5)</sup> But mainly because this model often leads to a fragile sort of toxically masculine<sup id="a6">[[6]](#f6)</sup> approach to engineering management, squeezing out and discounting the vitality in what is usually the domain of the "soft" (human) skills.
 
 Sadly this is a model I've seen play out in multiple organisations. Strong engineers are "promoted"<sup id="a7">[[7]](#f7)</sup> into Engineering Manager roles because they're "good engies", and absent strong leadership, they stick to their engineering work and forgo good management practice. The organisation often supports this because they are busy and want to (need to) ship features, so what they value most are coders. In these leadership-poor organisations managers like this stick, are promoted, have impact and reinforce that toxic tech-first, diversity-last culture.
 
