@@ -158,7 +158,7 @@ Make sure they know:
 ### Guiding Principles
 
 1. Look back to the questions in Section 0 "Who are you recruiting and why" as a reminder to yourself (and other reviewers) of what role you want to fill.
-2. You almost certainly have an "ideal candidate" in mind—it's human nature—but you'll have to chose from the candidates available. Try to make space for a candidate that's different from what you expected. Sharing reviews with your panel will help here because everyone will have different ideal candidates.
+2. You almost certainly have an "ideal candidate" in mind—it's human nature—but you'll have to choose from the candidates available. Try to make space for a candidate that's different from what you expected. Sharing reviews with your panel will help here because everyone will have different ideal candidates.
 3. Learn about **unconscious bias** and continue the work to bring yours into your awareness.
 4. Find boundaries you can put in place to mitigate your **conscious bias**.
 5. **Don't confuse** ***Opportunity*** **and** ***Potential***: a candidate's CV experience is only a representation of where they've worked. Why do they want an interview with you? A candidate is more likely to want a change of track than simply be lazily applying for any role. Be open to candidates wanting a big change.
