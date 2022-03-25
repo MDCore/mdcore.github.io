@@ -6,7 +6,7 @@ Principal Engineers That Approve Leave, or how Engineering Managers end up not m
 
 <!--more-->
 ----
-At an old job my title was Software Engineering Team Lead, or _SETL_. In most other organisations I would have been titled _Engineering Manager_. This was the bottom rung of the Engineering Manager track<sup id="a1">[[1]](#f1)</sup>.
+At an old job my title was Software Engineering Team Lead, or _SETL_. In most other organisations I would have been titled _Engineering Manager_. This was the bottom rung of the Engineering Management track<sup id="a1">[[1]](#f1)</sup>.
 
 In this organisation the technical counterpart to my role was Principal Engineer<sup id="a2">[[2]](#f2)</sup>. The Engineering department here rated technical skills far above all others, and had a habit of promoting engineers to Principal primarily because that Engineer was good at shipping code. Many staff had long tenure and the organisation ran out of Principal Engineer roles, so when faced with a Senior Engineer who needed promotion (usually because of them shipping code, but often because they had stuck around long enough to earn it) the organisation would often create a Team Lead role for him<sup id="a3">[[3]](#f3)</sup>. This meant you often ended up with Engineering Managers<sup id="a4">[[4]](#f4)</sup> who insisted on being the smartest coder in the room and who cared more about peer reviews, writing code and spending all day in their IDE. There were many cases where these EM's didn't even do 1:1's and weren't expected to—they only performed the very basics of line management.
 
@@ -28,7 +28,7 @@ But when you see a large group of PETALs you have a solid red flag that this org
 
 <b id="f2">2</b>: This is that common pairing you see in engineering departments: Strong Tech and Strong People working closely together. [↩](#a2)
 
-<b id="f3">3</b>: I am throwing shade here because 94% of Team Leads (reminder, the first rung on the Engineering Manager ladder) in this company were male identifying. [↩](#a3)
+<b id="f3">3</b>: I am throwing shade here because 94% of Team Leads (reminder, the first rung on the Engineering Management ladder) in this company were male identifying. [↩](#a3)
 
 <b id="f4">4</b>: And this happened even with the role above meant for Senior Engineering Managers. I saw too many people with long service, no direct reports and sitting with what were meant to be senior people management roles because they'd built some vital system a decade ago. [↩](#a4)
 
