@@ -52,7 +52,7 @@ Them being right for you will likely not directly correlate with degrees and tra
 
 It may take you 2 or 3 or 5 tries to find the right person. You get to be picky!
 
-Just to reiterate: you *must* be picky. If you're like me, you may think "oh I can't reject this person, they are so nice, they agreed to see me." You deserve to meet with someone in a space of complete mutual respect and safety, and for the focus to be entirely *on you*. For a lot of us that is really hard. This is the time for it, with a stranger who is trained to have that sort of relationship with you and who won't need you to bring your energy and care for them. It's appropriate and important to selfish here. This is about you. If that's something you struggle  with (perhaps why you're going to therapy in the first place) it's ok to express that you find it hard.
+Just to reiterate: you *must* be picky. If you're like me, you may think "oh I can't reject this person, they are so nice, they agreed to see me." You deserve to meet with someone in a space of complete mutual respect and safety, and for the focus to be entirely *on you*. For a lot of us that is really hard. This is the time for it, with a stranger who is trained to have that sort of relationship with you and who won't need you to bring your energy and care for them. It's appropriate and important to be selfish here. This is about you. If that's something you struggle  with (perhaps why you're going to therapy in the first place) it's ok to express that you find it hard.
 
 ### Step 7 - and then?
 So you've been to one or more people, and you have found someone you connect with. It can take a few sessions to settle into the relationship. They need to learn how best to connect with you and may try a few different things to work out what is most effective. You need time to feel safe and vulnerable in that space. Assuming no red flags come up, you've done the hard task of finding someone. Go you!
@@ -63,7 +63,7 @@ You might be wondering how long this therapy process will take and what to expec
 
 A good therapist is invested in you being self-sufficient, and works towards you thriving without them. The work in that time *will* be hard, vulnerable, painful, and difficult. You might well get to the point where you dread going. As long as it's not because of the therapist themselves, I'd encourage you to keep up with it. Working out your pain and trauma can't be done without some suffering in the process - healing can come through painful work, and you absolutely deserve healing. Lean on your friends and family too, and let them encourage you to keep going.
 
-Whether we are best friends or I only know you through a few meetings at work, don't hesitate to reach out to me if you ever need some encouragement or perspective on getting into this process. Therapy has changed my life, and I believe a little or a lot can benefit everyone ❤.
+Whether we are best friends or I only know you through a few meetings at work, don't hesitate to reach out to me if you ever need some encouragement or perspective on getting into this process. Therapy has changed my life, and I believe a little or a lot can benefit everyone ❤
 
 ---
 
