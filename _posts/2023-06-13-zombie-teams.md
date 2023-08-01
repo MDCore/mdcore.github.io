@@ -5,9 +5,8 @@ title: Zombie teams
 This is a little story about a "zombie" team I was given and how I was able to disband it and save the team members.
 
 <!--more-->
-----
 
-### The team
+### The Team
 I started my role in this company as a senior engineering manager. As I normally do in my first week, I met with my teams, teamies and their stakeholders.
 
 I noticed a few key issues with one team:
@@ -43,3 +42,5 @@ Some signs to look out for:
 * Importantly, measurable work on psychological safety, improving processes and changing workstreams doesn't result in a change of team performance or attitude.
 
 If you do have a team like this, don't stick to small changes or simple hope. Be bold and take radical action.
+
+-----

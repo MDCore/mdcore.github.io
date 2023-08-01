@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Put them on a PIP"
+hide_intro: true
 ---
 This is a story about performance management and uncomfortable conversations and difficult decisions.
 
 <!--more-->
-----
 
 An Engineering Manager I know had a mid-level engineer transfer to their team through a restructure. They quickly discovered that this engineer's quality of work and experience was junior level. The engineer was also in a significantly different time zone from the rest of the team, had to do work that was not their expertise and that they weren't interested in learning either. It wasn't a temporary dip in performance, but a clear mis-levelling.
 

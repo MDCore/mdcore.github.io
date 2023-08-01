@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Are you a disillusioned manager?
+hide_intro: true
 ---
 _... if you became a manager because of your values; because you care about people; because you believe that a good manager is a multiplier of a teams' work: don't give up. You can end up belonging and thriving._
 
 <!--more-->
-----
 
 Are you a newish manager or leader and feeling lonely and lost now the "new role" honeymoon period has worn off? Becoming a leader is a bigger change than it might seem, especially if you've simply moved up a rung on the ladder.
 
@@ -78,3 +78,4 @@ Find friends in work and the industry. This'll not only give you opportunities t
 ### Discover your own mission, purpose and meaning
 This is the crux of transitioning out of this phase. If you've been over-identifying with your team and spending your energy thinking about work, you may have tied your sense of meaning and purpose, your own success and satisfaction, to the success of the people that report to you. Why did you move into leadership? It's OK to have no idea, especially if you're feeling disillusioned right now. If you can identify some of your mission and purpose you'll be able to connect the day-to-day of your work (like meetings, spreadsheets, talking, influencing, admin) with a journey that is less strongly tied to the endless busyness and fluctuations of your people, teams and company. 
 
+-----

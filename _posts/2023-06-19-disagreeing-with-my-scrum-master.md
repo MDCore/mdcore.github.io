@@ -27,3 +27,4 @@ It's easy for it to feel like a win-win after the fact, but going through it, I 
 
 This is evidence for me that emotions are a strong signal, but not always of what I initially suspect. I thought at first that my frustration was a sign of someone doing something "wrong". Exploring the facts showed that not to be true. My feelings were actually a sign of my own fear and discomfort at doing something differently, of letting go of ways of working that I thought I couldn't live without.
 
+-----

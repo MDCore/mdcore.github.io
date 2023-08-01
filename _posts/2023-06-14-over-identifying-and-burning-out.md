@@ -5,7 +5,6 @@ title: Over-identifying and burning out
 I've noticed a pattern that sometimes happens when I talk to burnt out folks:
 
 <!--more-->
-----
 
 > Them: I am tired and I don't know what to do with these work situations. What can I try?
 >
