@@ -8,11 +8,12 @@ I've been running open, structured competency interviews recently.
 <!--more-->
 
 "Structured" means that I have a predefined set of questions with a guiding rubric. These questions try to cover the competency space in the limited time available (~25-45 minutes). Here's one question and rubric from a manager interview:
-	Question: Tell me about a time you had to deal with conflict with people outside of your team? 
-	Prompt: Can you give an example?
-	Prompt: What was the impact? 
-	Prompt: Did it get worked out?
-	Listen for: Listening. Influence. Translating + communicating. Speaking to the impact on their team, department, the business. 
+	
+> Question: Tell me about a time you had to deal with conflict with people outside of your team? 
+> Prompt: Can you give an example?    
+> Prompt: What was the impact?  
+> Prompt: Did it get worked out?  
+> Listen for: Listening. Influence. Translating + communicating. Speaking to the impact on their team, department, the business. 
 
 "Open" means that I've been sharing the questions, including the tech test, with candidates before they get to the interview—by default. I've found that a well-prepared candidate means better interview outcomes: I get higher quality answers that help me evaluate their competency more accurately. 
 
