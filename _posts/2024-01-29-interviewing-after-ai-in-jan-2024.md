@@ -27,3 +27,5 @@ What this new paradigm is doing is making inadvertent liars of people. With good
 Some of the work for us here is philosophical. To me lying on your CV is a deal-breaker—I don't want to hire you if you're willing to misrepresent the truth. But this is accidental, almost innocent. I can't paint these candidates with the same brush as the conscious manipulator of yesteryear. I need to change my approach.
 
 So what do we do about this? How do we not only hire candidates who are able to fulfil the obligations of the role, but also not waste our time interviewing? It's going to need more empathy and openness, not less. Welcome to 2024, gang. It's going to be exciting!
+
+-----
