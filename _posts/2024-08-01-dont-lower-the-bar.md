@@ -4,7 +4,7 @@ title: Don't lower the bar to increase diversity
 hide_intro: true
 ---
 
-I responded to a post on LinkedIn that asked the question [should hiring managers be more lenient on "diverse" candidates in interviews to increase diversity.
+I responded to a post on LinkedIn that asked the question: should hiring managers be more lenient on "diverse" candidates in interviews to increase diversity.
 
 <!--more-->
 
