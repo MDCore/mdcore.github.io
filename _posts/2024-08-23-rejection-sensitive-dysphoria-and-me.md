@@ -14,7 +14,7 @@ That painful internal response can then also trigger an equally disproportionate
 
 I’ve seen firsthand how this can affect both myself and others. My own RSD story is an example of how powerful these reactions can be, and how much growth is possible when you learn to recognise and manage them.
 
-It was a few years ago that I finally named this pain. A job I was excited about, and believed I was certain to get, fell through. The intense feelings of rejection were debilitating, leaving me winded and in pain for hours. My outward reaction was anger and blame that I couldn't mask (not that I've ever been great at masking my feelings!). That behaviour, and previous RSD-related reactions, ruined the collegial relationships I had with those people. I didn't want to feel or behave this way any more. 
+It was a few years ago that I finally named this pain. A job I was excited about, and believed I was certain to get, fell through. The intense feelings of rejection were debilitating, leaving me winded and in pain for days. My outward reaction was anger and blame that I couldn't mask (not that I've ever been great at masking my feelings!). That behaviour, and previous RSD-related reactions, ruined the collegial relationships I had with those people. I didn't want to feel or behave this way any more. 
 
 Consciously reflecting on the event and my response, something finally clicked. This event, the feelings of being in imminent danger, and my reaction did not add up. Even though my emotions felt deeply true, I realised I had to risk disbelieving them for now.
 
